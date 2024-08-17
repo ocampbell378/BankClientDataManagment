@@ -1,0 +1,2 @@
+# Dependency for this project
+pandas==2.2.2
